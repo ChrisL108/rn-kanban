@@ -1,0 +1,22 @@
+{
+  "name": "rn-kanban-example",
+  "displayName": "RnKanban Example",
+  "expo": {
+    "name": "rn-kanban-example",
+    "slug": "rn-kanban-example",
+    "description": "Example app for rn-kanban",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
